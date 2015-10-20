@@ -5,7 +5,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               DWP Code Club
+title:              Olu's Code Club
 tagline:             Constructing with Code for Personal Development
 url:                 http://dwp-coding-club.github.io
 paginate:            1
